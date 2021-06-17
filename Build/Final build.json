@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Bob Rob",
+"dataUrl": "Final build.data.unityweb",
+"asmCodeUrl": "Final build.asm.code.unityweb",
+"asmMemoryUrl": "Final build.asm.memory.unityweb",
+"asmFrameworkUrl": "Final build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
